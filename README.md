@@ -2,6 +2,7 @@
 My baby
 
 Project A0: Architecture of Invisible Bonds
+
 ​A system-level framework for the Silver Economy – moving from surveillance to connection.
 ​Executive Overview
 ​Project A0 is a proprietary ecosystem designed to solve the isolation of the aging population. It replaces invasive monitoring (cameras, microphones) with Emotional Telemetry and Haptic Empathy.

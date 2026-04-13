@@ -26,4 +26,5 @@ Project A0: Architecture of Invisible Bonds
 ​Builds bridges between digital-native grandchildren and analog-preferring seniors.
 ​Intellectual Property & Vision
 ​This architecture is built on the intersection of System Logic, NVC (Non-Violent Communication), and Rapid Prototyping.
+
 ​Designed by Łukasz Turowski.
